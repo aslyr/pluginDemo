@@ -8,4 +8,5 @@ interface View {
     //高度
     var height:Int
     fun draw()
+    var isDestory:Boolean
 }

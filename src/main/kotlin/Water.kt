@@ -8,4 +8,6 @@ class Water(override var x: Int, override var y: Int) :View,Blockable{
         Painter.drawImage("img/water.gif",x,y)
     }
 
+    override var isDestory: Boolean=false
+
 }

@@ -5,4 +5,6 @@ object Config {
     var heightSmall=32
     var windowWidth= width*13
     var windowHeight= height*9
+    val bulletWidth=16
+    val bulletHeight=32
 }

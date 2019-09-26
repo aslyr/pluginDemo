@@ -5,7 +5,7 @@ plugins {
     application
 }
 application {
-    mainClassName = "HelloKt"
+    mainClassName = "AppKt"
 }
 group = "com.aslyr"
 version = "1.0-SNAPSHOT"
